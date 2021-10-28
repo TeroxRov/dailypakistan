@@ -1,0 +1,16 @@
+advert_id,advert_link,advert_image,advert_status,advert_position
+4,http://www.yahoo.com,topbanner_1.jpg,1,top
+5,http://www.yahoo.com,bottom-banner.jpg,1,top
+6,http://www.yahoo.com,bottom-banner_1.jpg,1,bottom
+13,http://www.rafaymall.com,bottom-banner_2.jpg,1,top
+14,\\\\https://rafaymall.com,bottom-banner_3.jpg,1,bottom
+15,1,<blank>,1,top
+16,1,<blank>,1,bottom
+17,1,<blank>,0,top
+18,http://www.rafaymall.com,<blank>,1,top
+19,http://www.rafaymall.com,<blank>,1,bottom
+20,http://www.rafaymall.com,<blank>,0,top
+21,http://www.yahoo.com,<blank>,1,top
+22,http://www.yahoo.com,<blank>,1,top
+23,1,<blank>,1,top
+

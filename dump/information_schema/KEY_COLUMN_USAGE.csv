@@ -1,0 +1,11 @@
+TABLE_NAME,COLUMN_NAME,TABLE_SCHEMA,TABLE_CATALOG,CONSTRAINT_NAME,ORDINAL_POSITION,CONSTRAINT_SCHEMA,CONSTRAINT_CATALOG,REFERENCED_TABLE_NAME,REFERENCED_COLUMN_NAME,REFERENCED_TABLE_SCHEMA,POSITION_IN_UNIQUE_CONSTRAINT
+<blank>,advert_id,<blank>,<blank>,PRIMARY,1,dailypak_dailypak,def,dailypak_dailypak,advert,<blank>,def
+<blank>,article_id,<blank>,<blank>,PRIMARY,1,dailypak_dailypak,def,dailypak_dailypak,article,<blank>,def
+<blank>,author_id,<blank>,<blank>,PRIMARY,1,dailypak_dailypak,def,dailypak_dailypak,author,<blank>,def
+<blank>,news_id,<blank>,<blank>,PRIMARY,1,dailypak_dailypak,def,dailypak_dailypak,latestnews,<blank>,def
+<blank>,magazine_id,<blank>,<blank>,PRIMARY,1,dailypak_dailypak,def,dailypak_dailypak,magazine,<blank>,def
+<blank>,member_id,<blank>,<blank>,PRIMARY,1,dailypak_dailypak,def,dailypak_dailypak,member,<blank>,def
+<blank>,news_id,<blank>,<blank>,PRIMARY,1,dailypak_dailypak,def,dailypak_dailypak,news,<blank>,def
+<blank>,page_id,<blank>,<blank>,PRIMARY,1,dailypak_dailypak,def,dailypak_dailypak,page,<blank>,def
+<blank>,news_id,<blank>,<blank>,PRIMARY,1,dailypak_dailypak,def,dailypak_dailypak,popularnews,<blank>,def
+

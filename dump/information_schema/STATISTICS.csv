@@ -1,0 +1,11 @@
+PACKED,COMMENT,NULLABLE,SUB_PART,INDEX_NAME,INDEX_TYPE,NON_UNIQUE,TABLE_NAME,COLUMN_NAME,COLLATION,INDEX_SCHEMA,SEQ_IN_INDEX,TABLE_SCHEMA,INDEX_COMMENT,TABLE_CATALOG,CARDINALITY
+1,<blank>,<blank>,advert,PRIMARY,BTREE,0,14,advert_id,<blank>,dailypak_dailypak,def,A,<blank>,dailypak_dailypak,<blank>
+1,<blank>,<blank>,article,PRIMARY,BTREE,0,10,article_id,<blank>,dailypak_dailypak,def,A,<blank>,dailypak_dailypak,<blank>
+1,<blank>,<blank>,author,PRIMARY,BTREE,0,4,author_id,<blank>,dailypak_dailypak,def,A,<blank>,dailypak_dailypak,<blank>
+1,<blank>,<blank>,latestnews,PRIMARY,BTREE,0,0,news_id,<blank>,dailypak_dailypak,def,A,<blank>,dailypak_dailypak,<blank>
+1,<blank>,<blank>,magazine,PRIMARY,BTREE,0,204,magazine_id,<blank>,dailypak_dailypak,def,A,<blank>,dailypak_dailypak,<blank>
+1,<blank>,<blank>,member,PRIMARY,BTREE,0,0,member_id,<blank>,dailypak_dailypak,def,A,<blank>,dailypak_dailypak,<blank>
+1,<blank>,<blank>,news,PRIMARY,BTREE,0,1546,news_id,<blank>,dailypak_dailypak,def,A,<blank>,dailypak_dailypak,<blank>
+1,<blank>,<blank>,page,PRIMARY,BTREE,0,0,page_id,<blank>,dailypak_dailypak,def,A,<blank>,dailypak_dailypak,<blank>
+1,<blank>,<blank>,popularnews,PRIMARY,BTREE,0,122,news_id,<blank>,dailypak_dailypak,def,A,<blank>,dailypak_dailypak,<blank>
+

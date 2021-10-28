@@ -1,0 +1,3 @@
+ID,DB,HOST,INFO,STATE,TIME,USER,COMMAND
+1461154,dailypak_dailypak,localhost,select * from popularnews where news_id=__REFLECTED_VALUE__,executing,0,dailypak_muj,Query
+

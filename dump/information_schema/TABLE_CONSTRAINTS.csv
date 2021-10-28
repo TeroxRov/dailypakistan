@@ -1,0 +1,11 @@
+TABLE_NAME,TABLE_SCHEMA,CONSTRAINT_NAME,CONSTRAINT_TYPE,CONSTRAINT_SCHEMA,CONSTRAINT_CATALOG
+advert,dailypak_dailypak,PRIMARY,PRIMARY KEY,dailypak_dailypak,def
+article,dailypak_dailypak,PRIMARY,PRIMARY KEY,dailypak_dailypak,def
+author,dailypak_dailypak,PRIMARY,PRIMARY KEY,dailypak_dailypak,def
+latestnews,dailypak_dailypak,PRIMARY,PRIMARY KEY,dailypak_dailypak,def
+magazine,dailypak_dailypak,PRIMARY,PRIMARY KEY,dailypak_dailypak,def
+member,dailypak_dailypak,PRIMARY,PRIMARY KEY,dailypak_dailypak,def
+news,dailypak_dailypak,PRIMARY,PRIMARY KEY,dailypak_dailypak,def
+page,dailypak_dailypak,PRIMARY,PRIMARY KEY,dailypak_dailypak,def
+popularnews,dailypak_dailypak,PRIMARY,PRIMARY KEY,dailypak_dailypak,def
+
